@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	
+	<!--
+	 Created by XML Export feature at MyAnimeList.net
+	 Version 1.1.0
+	-->
+	
+	<myanimelist>
+	
+		<myinfo>
+			<user_id>1437767</user_id>
+			<user_name>Plaintiff</user_name>
+			<user_export_type>2</user_export_type>
+			<user_total_manga>19</user_total_manga>
+			<user_total_reading>8</user_total_reading>
+			<user_total_completed>11</user_total_completed>
+			<user_total_onhold>0</user_total_onhold>
+			<user_total_dropped>0</user_total_dropped>
+			<user_total_plantoread>0</user_total_plantoread>
+		</myinfo>
+	
+	
+				<manga>
+					<manga_mangadb_id>24705</manga_mangadb_id>
+					<manga_title><![CDATA[Aku no Hana]]></manga_title>
+					<manga_volumes>11</manga_volumes>
+					<manga_chapters>58</manga_chapters>
+					<my_id>145486022</my_id>
+					<my_read_volumes>11</my_read_volumes>
+					<my_read_chapters>58</my_read_chapters>
+					<my_start_date>2021-09-27</my_start_date>
+					<my_finish_date>2021-09-28</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>7</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[[hr][color=lightyellow]Anime adaptation of subsequent chapters is unlikely, so yeah, I read the manga.[/color]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Shuuzou Oshimi, The Flowers of Evil, Online]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>3631</manga_mangadb_id>
+					<manga_title><![CDATA[Akuma to Dolce]]></manga_title>
+					<manga_volumes>2</manga_volumes>
+					<manga_chapters>9</manga_chapters>
+					<my_id>145485962</my_id>
+					<my_read_volumes>2</my_read_volumes>
+					<my_read_chapters>9</my_read_chapters>
+					<my_start_date>2023-02-04</my_start_date>
+					<my_finish_date>2023-02-10</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>6</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[[hr][size=95][b][color=lavenderblush]Winter 2023 Challenge[/color][/b][/size]
+[size=95][color=khaki]Sweet Treats[/color][/size]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Winter, Challenge, 2023, Online]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>2</manga_mangadb_id>
+					<manga_title><![CDATA[Berserk]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>147958887</my_id>
+					<my_read_volumes>16</my_read_volumes>
+					<my_read_chapters>148</my_read_chapters>
+					<my_start_date>2023-07-11</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>10</my_score>
+					<my_storage>Hard Drive</my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Reading</my_status>
+					<my_comments><![CDATA[[hr][color=lightpink][size=105]It's high time I read this !![/size][/color]
+
+[spoiler="‌"]https://myanimelist.net/blog.php?eid=900038[/spoiler]
+[spoiler="‌"]https://sptfy.com/gats[/spoiler]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Kentaro Miura, Dark Fantasy, Digital, Hard Drive, Favorite, NSFW]]></my_tags>
+					<my_priority>High</my_priority>
+					<my_reread_value>High</my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>NO</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>92299</manga_mangadb_id>
+					<manga_title><![CDATA[Berserk: Shinen no Kami 2]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>1</manga_chapters>
+					<my_id>150687248</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>1</my_read_chapters>
+					<my_start_date>2023-08-31</my_start_date>
+					<my_finish_date>2023-08-31</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>8</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[[hr][color=lightyellow]The Idea of Evil[/color]
+[spoiler="‌"]https://berserk.fandom.com/wiki/Idea_of_Evil[/spoiler]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Kentaro Miura, Dark Fantasy, Digital, Hard Drive, One-shot]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>1409</manga_mangadb_id>
+					<manga_title><![CDATA[Biomega]]></manga_title>
+					<manga_volumes>6</manga_volumes>
+					<manga_chapters>43</manga_chapters>
+					<my_id>150341934</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Reading</my_status>
+					<my_comments><![CDATA[[hr]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Tsutomu Nihei, Techno-Dystopian, Digital, Hard Drive]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>149</manga_mangadb_id>
+					<manga_title><![CDATA[Blame!]]></manga_title>
+					<manga_volumes>10</manga_volumes>
+					<manga_chapters>66</manga_chapters>
+					<my_id>150276225</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Reading</my_status>
+					<my_comments><![CDATA[[hr]
+[spoiler="‌"]https://myanimelist.net/blog.php?eid=900164[/spoiler]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Tsutomu Nihei, Techno-Dystopian, Digital, Hard Drive, Favorite]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>1133</manga_mangadb_id>
+					<manga_title><![CDATA[Dorohedoro]]></manga_title>
+					<manga_volumes>23</manga_volumes>
+					<manga_chapters>190</manga_chapters>
+					<my_id>149149155</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>1</my_read_chapters>
+					<my_start_date>2023-07-31</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Reading</my_status>
+					<my_comments><![CDATA[[hr][color=Lightcoral][size=95]Sick character designs![/size][/color]
+
+[spoiler="‌"]https://myanimelist.net/blog.php?eid=900155[/spoiler]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Q Hayashida, Dark Fantasy, Digital, Hard Drive, Favorite]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>72719</manga_mangadb_id>
+					<manga_title><![CDATA[Hana wo Meshimase]]></manga_title>
+					<manga_volumes>1</manga_volumes>
+					<manga_chapters>4</manga_chapters>
+					<my_id>146016511</my_id>
+					<my_read_volumes>1</my_read_volumes>
+					<my_read_chapters>4</my_read_chapters>
+					<my_start_date>2022-04-02</my_start_date>
+					<my_finish_date>2022-04-02</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>6</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[[hr][size=95][b][color=springgreen]Spring 2022 Challenge[/color][/b][/size]
+[size=95][color=khaki]Florist/Gardener[/color][/size]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Spring, Challenge, 2022, Online]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>109545</manga_mangadb_id>
+					<manga_title><![CDATA[Kaijuu no Shiiku Iin]]></manga_title>
+					<manga_volumes>2</manga_volumes>
+					<manga_chapters>13</manga_chapters>
+					<my_id>147467614</my_id>
+					<my_read_volumes>2</my_read_volumes>
+					<my_read_chapters>13</my_read_chapters>
+					<my_start_date>2023-07-07</my_start_date>
+					<my_finish_date>2023-07-08</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>6</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[[hr][size=95][b][color=coral]Summer 2023 Challenge[/color][/b][/size]
+[size=95][color=khaki]Unusual Pets[/color][/size]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Summer, Challenge, 2023, Online]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>NO</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>5427</manga_mangadb_id>
+					<manga_title><![CDATA[Kaikisen]]></manga_title>
+					<manga_volumes>1</manga_volumes>
+					<manga_chapters>7</manga_chapters>
+					<my_id>145485924</my_id>
+					<my_read_volumes>1</my_read_volumes>
+					<my_read_chapters>7</my_read_chapters>
+					<my_start_date>2022-07-01</my_start_date>
+					<my_finish_date>2022-07-08</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>7</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[[hr][size=95][b][color=coral]Summer 2022 Challenge[/color][/b][/size]
+[size=95][color=khaki]Midsummer Mermaids[/color][/size]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Satoshi Kon, Summer, Challenge, 2022, Online]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>91941</manga_mangadb_id>
+					<manga_title><![CDATA[Made in Abyss]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>149040641</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>1</my_read_chapters>
+					<my_start_date>2023-07-29</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>10</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Reading</my_status>
+					<my_comments><![CDATA[[hr][color=mistyrose][size=95]The Netherworld[/size][/color]
+
+[spoiler="‌"]https://myanimelist.net/blog.php?eid=900072[/spoiler]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Akihito Tsukushi, Dark Fantasy, Digital, Hard Drive, Favorite]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>160710</manga_mangadb_id>
+					<manga_title><![CDATA[Naruto Gaiden: Uzu no Naka no Tsumujikaze]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>1</manga_chapters>
+					<my_id>148424505</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>1</my_read_chapters>
+					<my_start_date>2023-07-18</my_start_date>
+					<my_finish_date>2023-07-18</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>7</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[[hr][color=lightyellow]The naming origins of "Rasengan"[/color]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Masashi Kishimoto, One-shot, Digital]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>698</manga_mangadb_id>
+					<manga_title><![CDATA[Neon Genesis Evangelion]]></manga_title>
+					<manga_volumes>14</manga_volumes>
+					<manga_chapters>97</manga_chapters>
+					<my_id>150276223</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Reading</my_status>
+					<my_comments><![CDATA[[hr]
+[spoiler="‌"]https://myanimelist.net/blog.php?eid=900398[/spoiler]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Yoshiyuki Sadamoto, Mecha, Digital, Hard Drive, Favorite]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>132169</manga_mangadb_id>
+					<manga_title><![CDATA[Niwatori Fighter]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>142820200</my_id>
+					<my_read_volumes>4</my_read_volumes>
+					<my_read_chapters>20</my_read_chapters>
+					<my_start_date>2023-04-05</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>8</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Reading</my_status>
+					<my_comments><![CDATA[[spoiler="‌"]https://bit.ly/niwatori-fighter[/spoiler][hr][size=95][b][color=springgreen]Spring 2023 Challenge[/color][/b][/size]
+[size=95][color=khaki]You Should Read This Manga[/color][/size]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Spring, Challenge, 2023, Online]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>465</manga_mangadb_id>
+					<manga_title><![CDATA[NOiSE]]></manga_title>
+					<manga_volumes>1</manga_volumes>
+					<manga_chapters>8</manga_chapters>
+					<my_id>150346826</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Reading</my_status>
+					<my_comments><![CDATA[[hr][color=#404040][i]The Bible has its Genesis.
+The Matrix has The Second Renaissance.
+BLAME! has NOiSE.[/i][/color]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Tsutomu Nihei, Techno-Dystopian, Digital, Hard Drive]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>5356</manga_mangadb_id>
+					<manga_title><![CDATA[Old Home no Haibane-tachi]]></manga_title>
+					<manga_volumes>2</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>149006085</my_id>
+					<my_read_volumes>2</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>2023-07-28</my_start_date>
+					<my_finish_date>2023-07-28</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>7</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[[hr][color=lightyellow]Yoshitoshi ABe's Haibanes aka "Angels" [/color]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[ Yoshitoshi ABe, Doujinshi, Digital, Hard Drive]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>34211</manga_mangadb_id>
+					<manga_title><![CDATA[Old Home no Haibane-tachi: Bangai-hen]]></manga_title>
+					<manga_volumes>1</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>149005125</my_id>
+					<my_read_volumes>1</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>2023-07-28</my_start_date>
+					<my_finish_date>2023-07-28</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>6</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[[hr][color=lightyellow]Reki's past.[/color]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[ Yoshitoshi ABe, Doujinshi, Digital, Hard Drive]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>67031</manga_mangadb_id>
+					<manga_title><![CDATA[Roman Album: Taishou Dennou Dadaism Emaki - Despera]]></manga_title>
+					<manga_volumes>1</manga_volumes>
+					<manga_chapters>13</manga_chapters>
+					<my_id>150276227</my_id>
+					<my_read_volumes>1</my_read_volumes>
+					<my_read_chapters>13</my_read_chapters>
+					<my_start_date>2023-08-24</my_start_date>
+					<my_finish_date>2023-08-26</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>7</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[[hr]Read: https://bit.ly/despera-light-novel
+Info: https://despera.fandom.com/wiki/Despera
+Wiki: https://despera.fandom.com/wiki/Despera_Wiki
+News: https://bit.ly/desupera
+[hr][color=lightgreen]☑[/color] [color=white]1. Asakusa Juunikai[/color] — [color=pink]08.24.23[/color]
+[color=lightgreen]☑[/color] [color=white] 2. The Noble Man of Surugadai[/color] — [color=pink]08.24.23[/color]
+[color=lightgreen]☑[/color] [color=white] 3. The Electric Girl vs. the Tank Squadron[/color] — [color=pink]08.25.23[/color] 
+[color=lightgreen]☑[/color] [color=white] 4. The Anarchist and the Majin[/color] — [color=pink]08.26.23[/color] 
+[color=lightgreen]☑[/color] [color=white] 5. Ain Flies[/color] — [color=pink]08.26.23[/color] 
+[color=lightgreen]☑[/color] [color=white] 6. Day of Prophecy[/color] — [color=pink]08.26.23[/color] 
+[color=lightgreen]☑[/color] [color=white] 7. Showa[/color] — [color=pink]08.26.23[/color]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Yoshitoshi ABe, Chiaki Konaka, Ryuutarou Nakamura, Light Novel, Hard Drive]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>NO</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>5461</manga_mangadb_id>
+					<manga_title><![CDATA[Serial Experiments Lain: The Nightmare of Fabrication]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>1</manga_chapters>
+					<my_id>147827176</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>1</my_read_chapters>
+					<my_start_date>2023-07-08</my_start_date>
+					<my_finish_date>2023-07-08</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>8</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[[hr][color=lightyellow]"Where your thoughts end and reality begins is a very thin line."[/color]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[ Yoshitoshi ABe, One-shot, Online]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+		</myanimelist>
+		
