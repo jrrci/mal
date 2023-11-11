@@ -2814,7 +2814,7 @@
   }
   /* ANIME TITLE */
   .list-table .list-table-data .data.title .link{
-	  color: #967ADC !important;
+	  color: #00FFFF !important;
   }
   /* AIRING, PUBLISHING, ETC*/
   .list-table .list-table-data .data.title .content-status{
@@ -2901,7 +2901,7 @@
   /* ANIME TITLE COLORS ON ROW HOVER
   Optional, because this can get complicated.*/
   .list-table .list-table-data:hover .data.title .link{
-	  color: #E1BEE7 !important;
+	  color: #A6FFFF !important;
   }
   /* ANIME INFO COLORS ON ROW HOVER
   Optional, because this can get complicated. You can remove lines to narrow down to individual text, as in the above code.*/  
