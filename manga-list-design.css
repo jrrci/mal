@@ -816,8 +816,9 @@
   
   .list-table > tbody {
 	  display: block;
+	  border: 2px solid #000;
 	  width: 1060px;
-	  background: var(--content-background) !important;
+	  background: rgba(56, 214, 250, 0.05) !important;
 	  box-shadow: var(--mild-shadow);
 	  border-radius: 6px;
 	  margin-bottom: 6px;
@@ -1411,7 +1412,7 @@
   
   .header-title:is(.started, .finished) {
 	  width: auto !important;
-	  background: var(--content-background) !important;
+	  background: transparent !important;
 	  order: 25;
 	  text-align: left !important;
 	  font-size: 0;
@@ -1491,7 +1492,7 @@
   }
   
   .header-title.started::before {
-	  content: "Season";
+	  content: nil;
 	  position: absolute;
 	  left: 0;
 	  z-index: -1;
