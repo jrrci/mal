@@ -6,9 +6,9 @@
 
 ## List
 
-[Anime List](https://myanimelist.net/animelist/Plaintiff)
+[Anime List](https://myanimelist.net/animelist/Romar)
 
-[Manga List](https://myanimelist.net/mangalist/Plaintiff)
+[Manga List](https://myanimelist.net/mangalist/Romar)
 
 ## Edit 
 
