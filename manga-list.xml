@@ -9,12 +9,12 @@
 	
 		<myinfo>
 			<user_id>1437767</user_id>
-			<user_name>Plaintiff</user_name>
+			<user_name>Romar</user_name>
 			<user_export_type>2</user_export_type>
-			<user_total_manga>19</user_total_manga>
-			<user_total_reading>8</user_total_reading>
-			<user_total_completed>11</user_total_completed>
-			<user_total_onhold>0</user_total_onhold>
+			<user_total_manga>21</user_total_manga>
+			<user_total_reading>2</user_total_reading>
+			<user_total_completed>16</user_total_completed>
+			<user_total_onhold>3</user_total_onhold>
 			<user_total_dropped>0</user_total_dropped>
 			<user_total_plantoread>0</user_total_plantoread>
 		</myinfo>
@@ -79,18 +79,23 @@
 					<manga_volumes>0</manga_volumes>
 					<manga_chapters>0</manga_chapters>
 					<my_id>147958887</my_id>
-					<my_read_volumes>16</my_read_volumes>
-					<my_read_chapters>148</my_read_chapters>
+					<my_read_volumes>41</my_read_volumes>
+					<my_read_chapters>380</my_read_chapters>
 					<my_start_date>2023-07-11</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
 					<my_score>10</my_score>
 					<my_storage>Hard Drive</my_storage>
 					<my_retail_volumes>0</my_retail_volumes>
-					<my_status>Reading</my_status>
+					<my_status>On-Hold</my_status>
 					<my_comments><![CDATA[[hr][color=lightpink][size=105]It's high time I read this !![/size][/color]
 
-[spoiler="‌"]https://myanimelist.net/blog.php?eid=900038[/spoiler]
+[color=lightblue][Volumes 1-30][/color]
+[url=https://myanimelist.net/blog.php?eid=900038]Progress[/url]
+
+[color=lightblue][Volumes 31-42][/color]
+[url=https://myanimelist.net/blog.php?eid=900652]Progress[/url]
+
 [spoiler="‌"]https://sptfy.com/gats[/spoiler]]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[Kentaro Miura, Dark Fantasy, Digital, Hard Drive, Favorite, NSFW]]></my_tags>
@@ -135,22 +140,22 @@
 					<manga_volumes>6</manga_volumes>
 					<manga_chapters>43</manga_chapters>
 					<my_id>150341934</my_id>
-					<my_read_volumes>0</my_read_volumes>
-					<my_read_chapters>0</my_read_chapters>
-					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_read_volumes>6</my_read_volumes>
+					<my_read_chapters>43</my_read_chapters>
+					<my_start_date>2024-03-29</my_start_date>
+					<my_finish_date>2024-03-30</my_finish_date>
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
-					<my_score>0</my_score>
+					<my_score>9</my_score>
 					<my_storage></my_storage>
 					<my_retail_volumes>0</my_retail_volumes>
-					<my_status>Reading</my_status>
-					<my_comments><![CDATA[[hr]]]></my_comments>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[[hr][url=https://myanimelist.net/blog.php?eid=900164]Progress[/url]]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[Tsutomu Nihei, Techno-Dystopian, Digital, Hard Drive]]></my_tags>
 					<my_priority>Low</my_priority>
 					<my_reread_value></my_reread_value>
 					<my_rereading>NO</my_rereading>
-					<my_discuss>YES</my_discuss>
+					<my_discuss>NO</my_discuss>
 					<my_sns>default</my_sns>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -161,23 +166,54 @@
 					<manga_volumes>10</manga_volumes>
 					<manga_chapters>66</manga_chapters>
 					<my_id>150276225</my_id>
-					<my_read_volumes>0</my_read_volumes>
-					<my_read_chapters>0</my_read_chapters>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_read_volumes>10</my_read_volumes>
+					<my_read_chapters>66</my_read_chapters>
+					<my_start_date>2024-03-27</my_start_date>
+					<my_finish_date>2024-03-29</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>10</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[[hr]
+[size=120][color=lightblue][b]Welcome to the Netsphere![/b][/color][/size]
+
+[color=#00FFFF]Expansive world-building[/color]
+
+[url=https://myanimelist.net/blog.php?eid=900164]Progress[/url]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Tsutomu Nihei, Techno-Dystopian, Digital, Hard Drive, Favorite]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>NO</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>131403</manga_mangadb_id>
+					<manga_title><![CDATA[Choujin X]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>159271855</my_id>
+					<my_read_volumes>2</my_read_volumes>
+					<my_read_chapters>17</my_read_chapters>
+					<my_start_date>2024-02-29</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
 					<my_score>0</my_score>
 					<my_storage></my_storage>
 					<my_retail_volumes>0</my_retail_volumes>
 					<my_status>Reading</my_status>
-					<my_comments><![CDATA[[hr]
-[spoiler="‌"]https://myanimelist.net/blog.php?eid=900164[/spoiler]]]></my_comments>
+					<my_comments><![CDATA[[spoiler="‌"]https://bit.ly/choujin_x[/spoiler][hr][size=95][b][color=lavenderblush]Winter 2024 Challenge[/color][/b][/size]
+[size=95][color=khaki]You Should Read This Manga[/color][/size]]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[Tsutomu Nihei, Techno-Dystopian, Digital, Hard Drive, Favorite]]></my_tags>
+					<my_tags><![CDATA[Winter, Challenge, 2024, Digital]]></my_tags>
 					<my_priority>Low</my_priority>
 					<my_reread_value></my_reread_value>
 					<my_rereading>NO</my_rereading>
-					<my_discuss>YES</my_discuss>
+					<my_discuss>NO</my_discuss>
 					<my_sns>default</my_sns>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -188,24 +224,27 @@
 					<manga_volumes>23</manga_volumes>
 					<manga_chapters>190</manga_chapters>
 					<my_id>149149155</my_id>
-					<my_read_volumes>0</my_read_volumes>
-					<my_read_chapters>1</my_read_chapters>
+					<my_read_volumes>23</my_read_volumes>
+					<my_read_chapters>190</my_read_chapters>
 					<my_start_date>2023-07-31</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2024-03-27</my_finish_date>
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
-					<my_score>0</my_score>
+					<my_score>9</my_score>
 					<my_storage></my_storage>
 					<my_retail_volumes>0</my_retail_volumes>
-					<my_status>Reading</my_status>
-					<my_comments><![CDATA[[hr][color=Lightcoral][size=95]Sick character designs![/size][/color]
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[[hr][color=Lightcoral][size=110][b]Sick character designs![/b][/size][/color]
 
-[spoiler="‌"]https://myanimelist.net/blog.php?eid=900155[/spoiler]]]></my_comments>
+[color=yellow]True friendship prevails.[/color]
+
+[spoiler="‌"][color=yellow]Sorc-Kaiman was a riot—his innermost desires, hilariously, became the very essence of his abilities. The time-travel element was a nice touch.[/color][/spoiler]
+[url=https://myanimelist.net/blog.php?eid=900155]Progress[/url]]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[Q Hayashida, Dark Fantasy, Digital, Hard Drive, Favorite]]></my_tags>
 					<my_priority>Low</my_priority>
 					<my_reread_value></my_reread_value>
 					<my_rereading>NO</my_rereading>
-					<my_discuss>YES</my_discuss>
+					<my_discuss>NO</my_discuss>
 					<my_sns>default</my_sns>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -297,8 +336,8 @@
 					<manga_volumes>0</manga_volumes>
 					<manga_chapters>0</manga_chapters>
 					<my_id>149040641</my_id>
-					<my_read_volumes>0</my_read_volumes>
-					<my_read_chapters>1</my_read_chapters>
+					<my_read_volumes>12</my_read_volumes>
+					<my_read_chapters>67</my_read_chapters>
 					<my_start_date>2023-07-29</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -306,15 +345,18 @@
 					<my_storage></my_storage>
 					<my_retail_volumes>0</my_retail_volumes>
 					<my_status>Reading</my_status>
-					<my_comments><![CDATA[[hr][color=mistyrose][size=95]The Netherworld[/size][/color]
+					<my_comments><![CDATA[[hr][size=115][color=mistyrose][size=95][b]The Netherworld[/b][/size][/color][/size][hr]
+[spoiler="‌"][color=white]Is Srajo's hair pure white? If so, how light are we talking about?
 
-[spoiler="‌"]https://myanimelist.net/blog.php?eid=900072[/spoiler]]]></my_comments>
+Can't wait to see her, the 'Sovereign of Mystery', get animated.[/color][/spoiler]
+[spoiler="‌"]Why was Umbra Hands vs. Hail Hex fight skipped?[/spoiler]
+[url=https://myanimelist.net/blog.php?eid=900072]Progress[/url]]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[Akihito Tsukushi, Dark Fantasy, Digital, Hard Drive, Favorite]]></my_tags>
 					<my_priority>Low</my_priority>
 					<my_reread_value></my_reread_value>
 					<my_rereading>NO</my_rereading>
-					<my_discuss>YES</my_discuss>
+					<my_discuss>NO</my_discuss>
 					<my_sns>default</my_sns>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -346,48 +388,21 @@
 				</manga>
 			
 				<manga>
-					<manga_mangadb_id>698</manga_mangadb_id>
-					<manga_title><![CDATA[Neon Genesis Evangelion]]></manga_title>
-					<manga_volumes>14</manga_volumes>
-					<manga_chapters>97</manga_chapters>
-					<my_id>150276223</my_id>
-					<my_read_volumes>0</my_read_volumes>
-					<my_read_chapters>0</my_read_chapters>
-					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
-					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
-					<my_score>0</my_score>
-					<my_storage></my_storage>
-					<my_retail_volumes>0</my_retail_volumes>
-					<my_status>Reading</my_status>
-					<my_comments><![CDATA[[hr]
-[spoiler="‌"]https://myanimelist.net/blog.php?eid=900398[/spoiler]]]></my_comments>
-					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[Yoshiyuki Sadamoto, Mecha, Digital, Hard Drive, Favorite]]></my_tags>
-					<my_priority>Low</my_priority>
-					<my_reread_value></my_reread_value>
-					<my_rereading>NO</my_rereading>
-					<my_discuss>YES</my_discuss>
-					<my_sns>default</my_sns>
-					<update_on_import>0</update_on_import>
-				</manga>
-			
-				<manga>
 					<manga_mangadb_id>132169</manga_mangadb_id>
 					<manga_title><![CDATA[Niwatori Fighter]]></manga_title>
 					<manga_volumes>0</manga_volumes>
 					<manga_chapters>0</manga_chapters>
 					<my_id>142820200</my_id>
 					<my_read_volumes>4</my_read_volumes>
-					<my_read_chapters>20</my_read_chapters>
+					<my_read_chapters>24</my_read_chapters>
 					<my_start_date>2023-04-05</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
-					<my_score>8</my_score>
+					<my_score>7</my_score>
 					<my_storage></my_storage>
 					<my_retail_volumes>0</my_retail_volumes>
-					<my_status>Reading</my_status>
-					<my_comments><![CDATA[[spoiler="‌"]https://bit.ly/niwatori-fighter[/spoiler][hr][size=95][b][color=springgreen]Spring 2023 Challenge[/color][/b][/size]
+					<my_status>On-Hold</my_status>
+					<my_comments><![CDATA[[hr][size=95][b][color=springgreen]Spring 2023 Challenge[/color][/b][/size]
 [size=95][color=khaki]You Should Read This Manga[/color][/size]]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[Spring, Challenge, 2023, Online]]></my_tags>
@@ -405,18 +420,18 @@
 					<manga_volumes>1</manga_volumes>
 					<manga_chapters>8</manga_chapters>
 					<my_id>150346826</my_id>
-					<my_read_volumes>0</my_read_volumes>
-					<my_read_chapters>0</my_read_chapters>
-					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_read_volumes>1</my_read_volumes>
+					<my_read_chapters>8</my_read_chapters>
+					<my_start_date>2024-03-29</my_start_date>
+					<my_finish_date>2024-03-29</my_finish_date>
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
-					<my_score>0</my_score>
+					<my_score>9</my_score>
 					<my_storage></my_storage>
 					<my_retail_volumes>0</my_retail_volumes>
-					<my_status>Reading</my_status>
-					<my_comments><![CDATA[[hr][color=#404040][i]The Bible has its Genesis.
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[[hr][color=#808080][i]The Bible has its Genesis.
 The Matrix has The Second Renaissance.
-BLAME! has NOiSE.[/i][/color]]]></my_comments>
+BLAME! has NOiSE.[/i][/color][hr][url=https://myanimelist.net/blog.php?eid=900164]Progress[/url]]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[Tsutomu Nihei, Techno-Dystopian, Digital, Hard Drive]]></my_tags>
 					<my_priority>Low</my_priority>
@@ -480,6 +495,56 @@ BLAME! has NOiSE.[/i][/color]]]></my_comments>
 				</manga>
 			
 				<manga>
+					<manga_mangadb_id>4632</manga_mangadb_id>
+					<manga_title><![CDATA[Oyasumi Punpun]]></manga_title>
+					<manga_volumes>13</manga_volumes>
+					<manga_chapters>147</manga_chapters>
+					<my_id>154116944</my_id>
+					<my_read_volumes>13</my_read_volumes>
+					<my_read_chapters>147</my_read_chapters>
+					<my_start_date>2023-11-11</my_start_date>
+					<my_finish_date>2023-11-15</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>10</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[[hr][size=150][color=pink]"It's time" — 11.11.23[/color][/size][hr]
+[size=120][color=white]A story of the human condition.[/color][/size]
+
+[size=130][color=yellow][i]"Coward"[/i][/color][/size]
+[size=110][color=yellow]— Aiko[/color][/size]
+
+[color=white]Listening to "[url=https://www.youtube.com/watch?v=oc3Cq89P97Y]Lux Æterna[/url]" and "[url=https://www.youtube.com/watch?v=ljaTIhNm1MU]Mareux - The Perfect Girl[/url]" while reading the final chapters.[/color]
+
+[color=white]Contains [u]heavy[/u] and [u]depressing[/u] themes. [b]Read at your own risk.[/b][/color][hr][url=https://hanagasaitayo.wordpress.com/2019/12/01/analysis-goodnightpunpun-oyasumipunpun/][b]Analysis[/b][/url]
+[spoiler="‌"][color=#909090]It was [b]July 1st[/b] not July 7th
+
+The references to astronomy and the inclusion of the Star Festival are what prompted me to grant this manga a perfect score of 10, particularly in how the author skillfully portrayed the protagonist's romantic relationships as a symbolic representation of the Summer Triangle. This is the reason why he draws and posts **** on his social media accounts every Tanabata season as an homage to *** passing.[/color][/spoiler]
+[url=https://mangabrog.wordpress.com/2014/07/06/inio-asano-interview-reality-is-tough-so-read-this-manga-about-cute-girls-and-feel-better/][b]Interview[/b][/url][hr][color=lightgreen]☑[/color] [color=#FEE600]Volume 1[/color] — [color=pink]11.12.23 - 0641H[/color]
+[color=lightgreen]☑[/color] [color=#0FC2AD]Volume 2[/color] — [color=pink]11.13.23 - 0643H[/color]
+[color=lightgreen]☑[/color] [color=#CD257C]Volume 3[/color] — [color=pink]11.13.23 - 0948H[/color] 
+[color=lightgreen]☑[/color] [color=#0DA341]Volume 4[/color] — [color=pink]11.13.23 - 1319H[/color] 
+[color=lightgreen]☑[/color] [color=#F18140]Volume 5[/color] — [color=pink]11.13.23 - 1559H[/color] 
+[color=lightgreen]☑[/color] [color=#967BB6]Volume 6[/color] — [color=pink]11.14.23 - 0344H[/color] 
+[color=lightgreen]☑[/color] [color=#EBF2F5]Volume 7[/color] — [color=pink]11.14.23 - 0707H[/color] 
+[color=lightgreen]☑[/color] [color=#F2AE8C]Volume 8[/color] — [color=pink]11.14.23 - 1507H[/color] 
+[color=lightgreen]☑[/color] [color=#D2B48C]Volume 9[/color] — [color=pink]11.14.23 - 1712H[/color] 
+[color=lightgreen]☑[/color] [color=#B1B6B6]Volume 10[/color] — [color=pink]11.14.23 - 1933H[/color] 
+[color=lightgreen]☑[/color] [color=#9F8A58]Volume 11[/color] — [color=pink]11.14.23 - 2208H[/color] 
+[color=lightgreen]☑[/color] [color=#D3D3D3]Volume 12[/color] — [color=pink]11.15.23 - 1005H[/color] 
+[color=lightgreen]☑[/color] [color=#F4B190]Volume 13[/color] — [color=pink]11.15.23 - 1136H[/color] ]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Inio Asano, Digital, Hard Drive]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>NO</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
 					<manga_mangadb_id>67031</manga_mangadb_id>
 					<manga_title><![CDATA[Roman Album: Taishou Dennou Dadaism Emaki - Despera]]></manga_title>
 					<manga_volumes>1</manga_volumes>
@@ -533,6 +598,33 @@ News: https://bit.ly/desupera
 					<my_comments><![CDATA[[hr][color=lightyellow]"Where your thoughts end and reality begins is a very thin line."[/color]]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[ Yoshitoshi ABe, One-shot, Online]]></my_tags>
+					<my_priority>Low</my_priority>
+					<my_reread_value></my_reread_value>
+					<my_rereading>NO</my_rereading>
+					<my_discuss>YES</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>698</manga_mangadb_id>
+					<manga_title><![CDATA[Shinseiki Evangelion]]></manga_title>
+					<manga_volumes>14</manga_volumes>
+					<manga_chapters>97</manga_chapters>
+					<my_id>150276223</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_retail_volumes>0</my_retail_volumes>
+					<my_status>On-Hold</my_status>
+					<my_comments><![CDATA[[hr]
+[spoiler="‌"]https://myanimelist.net/blog.php?eid=900398[/spoiler]]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Yoshiyuki Sadamoto, Mecha, Digital, Hard Drive, Favorite]]></my_tags>
 					<my_priority>Low</my_priority>
 					<my_reread_value></my_reread_value>
 					<my_rereading>NO</my_rereading>
