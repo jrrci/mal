@@ -65,7 +65,7 @@
 
   @\import "https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Roboto+Condensed:wght@700&display=swap";
 
-  @\import "https://malscraper.azurewebsites.net/covers/manga/plaintiff/presets/dataimagelinkbefore";
+  @\import "https://malscraper.azurewebsites.net/covers/manga/romar/presets/dataimagelinkbefore";
   
   /*=========
 	!PAGE-BASE
@@ -2370,8 +2370,10 @@
 	  }
   }
   
-  
-  
+
+	body *, :not(*) {cursor: url(https://i.imgur.com/nCSQJX2.png), auto !important;}
+
+ 
   /*=========
 	!USER
 	=========*/
@@ -2872,126 +2874,5 @@
   .list-table .list-table-data .data.storage,
   .list-table .list-table-data .data.priority,
   .list-table .list-table-data .data.volume *,
-  .list-table .list-table-data .data.chapter *,
-  .list-table .list-table-data .data.number *,
-  .list-table .list-table-data .data.type *,
-  .list-table .list-table-data .data.progress *,
-  .list-table .list-table-data .data.rated *,
-  .list-table .list-table-data .data.started *,
-  .list-table .list-table-data .data.finished *,
-  .list-table .list-table-data .data.days *,
-  .list-table .list-table-data .data.airing-started *,
-  .list-table .list-table-data .data.airing-finished *,
-  .list-table .list-table-data .data.storage *,
-  .list-table .list-table-data .data.priority *{
-  color: lightblue !important; 
-  }
-  /* LINK COLORS ON HOVER
-  Optional, because this can get complicated.*/
-  a:hover,
-  .list-table .list-table-data .data.title .link:hover,
-  .list-table .list-table-data .data a:hover,
-  .list-table .list-table-header:hover:before,
-  .list-menu-float span.text:hover,.list-menu-float a:hover,
-  #header-menu-button:hover,
-  .header .header-menu a:hover,
-  .list-menu-float .icon-menu.profile:hover:after{
-	  color: lightblue !important;
-  }
-  /* ANIME TITLE COLORS ON ROW HOVER
-  Optional, because this can get complicated.*/
-  .list-table .list-table-data:hover .data.title .link{
-	  color: #A6FFFF !important;
-  }
-  /* ANIME INFO COLORS ON ROW HOVER
-  Optional, because this can get complicated. You can remove lines to narrow down to individual text, as in the above code.*/  
-  
-  .list-table .list-table-data:hover *,
-  .list-table .list-table-data:hover .data a,
-  .list-table .list-table-data:hover .data.title a,
-  .list-table .list-table-data:hover .data.volume a,
-  .list-table .list-table-data:hover .data.progress,
-  .list-table .list-table-data:hover .data.chapter a,
-  .list-table .list-table-data:hover .data.season,
-  .list-table .list-table-data:hover .data.studio,
-  .list-table .list-table-data:hover .data.licensor,
-  .list-table .list-table-data:hover .data.progress a,
-  .list-table .list-table-data:hover .data.season a,
-  .list-table .list-table-data:hover .data.magazine a,
-  .list-table .list-table-data:hover .data.studio a,
-  .list-table .list-table-data:hover .data.licensor a,
-  .list-table .list-table-data:hover .data.volume,
-  .list-table .list-table-data:hover .data.chapter,
-  .list-table .list-table-data:hover .data,
-  .list-table .list-table-data:hover .data.number,
-  .list-table .list-table-data:hover .data.type,
-  .list-table .list-table-data:hover .data.progress,
-  .list-table .list-table-data:hover .data.rated,
-  .list-table .list-table-data:hover .data.started,
-  .list-table .list-table-data:hover .data.finished,
-  .list-table .list-table-data:hover .data.days,
-  .list-table .list-table-data:hover .data.airing-started,
-  .list-table .list-table-data:hover .data.airing-finished,
-  .list-table .list-table-data:hover .data.storage,
-  .list-table .list-table-data:hover .data.priority,
-  .list-table .list-table-data:hover .data.volume *,
-  .list-table .list-table-data:hover .data.chapter *,
-  .list-table .list-table-data:hover .data *,
-  .list-table .list-table-data:hover .data.number *,
-  .list-table .list-table-data:hover .data.type *,
-  .list-table .list-table-data:hover .data.progress *,
-  .list-table .list-table-data:hover .data.rated *,
-  .list-table .list-table-data:hover .data.started *,
-  .list-table .list-table-data:hover .data.finished *,
-  .list-table .list-table-data:hover .data.days *,
-  .list-table .list-table-data:hover .data.airing-started *,
-  .list-table .list-table-data:hover .data.airing-finished *,
-  .list-table .list-table-data:hover .data.storage *,
-  .list-table .list-table-data:hover .data.priority *
-  {
-  color: none !important;   
-  }
-  /* STATS AND FILTERS*/
-  .list-unit .list-status-title .stats a{
-	  color: none !important;
-  }
-  /* LIST STATS*/
-  .list-unit .list-stats{
-	  color: none !important;
-  }
-  /* FOOTER TEXT */
-  #footer-block *, #footer-block a{
-	  color: none !important;
-  }
-  /* GRID LAYOUT QUOTE ONLY*/
-  .cover-block::before {
-	  color: none !important;
-  }
-  
-  
-  /* End List Font Colors */
-  
-  
-  /* Custom search box border */
-  
-  #status-menu:not(.fixed) .search-container {
-	  /* add border with transition */
-	  border: 2px solid transparent;
-	  transition: border 0.2s ease;
-	  /* adjust sizing to allow for less cramped border - could be removed if desired */
-	  top: 9px;
-	  height: 32px;
-	  background-clip: content-box;
-	  border-radius: 5px;
-  }
-  #status-menu:not(.fixed) .search-container:focus-within {
-	  /* set border colour upon selection */
-	  border-color: var(--page-category);
-  }
-  
-  #status-menu:not(.fixed) #search-box input {
-	  /* remove outline to prevent conflicting border visuals */
-	  outline: 0 !important;
-  }
-  
-  /* END Custom search box border */
+  .list-table .list-tab
+  color: lightskyblue !important;
