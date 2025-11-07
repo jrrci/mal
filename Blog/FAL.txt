@@ -1,0 +1,21 @@
+[size=120][b]Fantasy Anime League Rankings[/b][/size]
+
+[center][table][tr][th]#[/th][th]Badge[/th][th]Year[/th][th]Season[/th][th]Rank[/th][th]Participants[/th][th]Top %[/th][th]My Team[/th][/tr][tr][td]12[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2025_fal_fall.png[/img][/td][td]2025
+[/td][td][color=orange]Fall[/color][/td][td][b][color=palegreen]---[/color][/b]
+(---)[/td][td]18,537[/td][td]--%[/td][td][img height=60]--[/img][/td][/tr][tr][td]11[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2025_fal_summer.png[/img][/td][td]2025
+[/td][td][color=springgreen]Summer[/color][/td][td][b][color=palegreen]898[/color][/b]
+(↓738)[/td][td]21,292[/td][td]4%[/td][td][img height=60]--[/img][/td][/tr][tr][td]10[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2025_fal_spring.png[/img][/td][td]2025
+[/td][td][color=pink]Spring[/color][/td][td][b][color=palegreen]160[/color][/b]
+(↑344)[/td][td]23,440[/td][td]0.68%[/td][td][img height=60]https://i.imgur.com/kL7yG7H.png[/img][/td][/tr][tr][td]9[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2024_fall_fal.png[/img][/td][td]2024
+[/td][td][color=orange]Fall[/color][/td][td][b][color=palegreen]504[/color][/b]
+(↓186)[/td][td]27,020[/td][td]1%[/td][td][img height=60]https://i.imgur.com/AmwgvxF.png[/img][/td][/tr][tr][td]8[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2024_spring_profile_badge.png[/img][/td][td]2024
+[/td][td][color=pink]Spring 
+[/color][/td][td][b][color=palegreen]318[/color][/b]
+(↑13,078)[/td][td]27,278[/td][td]1%[/td][td][img height=60]https://i.imgur.com/N4drR11.png[/img][/td][/tr][tr][td]7[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2024_fal_winter_badge.png[/img][/td][td]2024[/td][td][color=powderblue]Winter[/color][/td][td][b][color=palegreen]13,396[/color][/b]
+(↓8,679)[/td][td]23,628[/td][td]56%[/td][td][img height=60]https://i.imgur.com/gSFpinE.png[/img][/td][/tr][tr][td]6[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2023_fal_fall.png[/img][/td][td]2023[/td][td][color=orange]Fall[/color][/td][td][b][color=palegreen]4,717[/color][/b]
+(↑7,881)[/td][td]24,136[/td][td]19%[/td][td][img height=60]https://i.imgur.com/O0QixxP.png[/img][/td][/tr][tr][td]5[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2023_summer_profile_badge.png[/img][/td][td]2023[/td][td][color=springgreen]Summer[/color][/td][td][b][color=palegreen]12,598[/color][/b]
+(↑5,482)[/td][td]30,172[/td][td]41%[/td][td][img height=60]https://i.imgur.com/XPPa4ty.png[/img][/td][/tr][tr][td]4[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2023_spring_fal.png[/img][/td][td]2023[/td][td][color=pink]Spring[/color][/td][td][b][color=palegreen]18,080[/color][/b]
+(↓11,819)[/td][td]35,865[/td][td]50%[/td][td][img height=60]https://i.imgur.com/YxD8fNy.png[/img][/td][/tr][tr][td]3[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2022_fall_fal.png[/img][/td][td]2022[/td][td][color=orange]Fall[/color][/td][td][b][color=palegreen]6,261[/color][/b]
+(↓4,449)[/td][td]39,086[/td][td]16%[/td][td][img height=60]https://i.imgur.com/5McLBKt.png[/img][/td][/tr][tr][td]2[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2022_spring_fal.png[/img][/td][td]2022[/td][td][color=pink]Spring[/color][/td][td][b][color=palegreen]1,812[/color][/b]
+(↑14,331)[/td][td]22,806[/td][td]7%[/td][td][img height=60]https://i.imgur.com/kDn1sjR.png[/img][/td][/tr][tr][td]1[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2021_fall_fal2.png[/img][/td][td]2021[/td][td][color=orange]Fall[/color][/td][td][b][color=palegreen]16,143[/color][/b]
+(inaugural)[/td][td]26,264[/td][td]61%[/td][td][img height=60]https://i.imgur.com/r4DOpS4.png[/img][/td][/tr][/table][/center]

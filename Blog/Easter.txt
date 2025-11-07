@@ -1,0 +1,17 @@
+[size=120][b]Easter Hunt Rankings[/b][/size]
+
+[center][table][tr][th]#[/th][th]Badge[/th][th]Year[/th][th]Time (Easy)[/th][th]Rank (Easy)[/th][th]Time (Hard)[/th][th]Rank (Hard)[/th][/tr][tr][td]4[/td][td][url=https://myanimelist.net/forum/?topicid=2152697&show=3300&msgid=70885596][img height=60]https://cdn.myanimelist.net/images/badge/2025_easter_easyhard.png[/img][/url][/td][td][color=bisque]2025[/color][/td][td][i][b]17:37:06[/b][/i]
+(--:--:--)[/td][td][b][color=lightgreen]229[/color][/b]/2839
+(--)[/td][td][i][b]18:58:15[/b][/i]
+(--:--:--)[/td][td][b][color=lightgreen]101[/color][/b]/1496
+(--)[/td][/tr][tr][td]3[/td][td][url=https://myanimelist.net/forum/?topicid=2152697&show=3300&msgid=70885596][img height=60]https://cdn.myanimelist.net/images/badge/2024_easter_easy_hard.png[/img][/url][/td][td][color=bisque]2024[/color][/td][td][i][b]14:32:31[/b][/i]
+(↑7:01:10)[/td][td][b][color=lightgreen]168[/color][/b]/2648
+(↓69)[/td][td][i][b]27:50:14[/b][/i]
+(↑20:12:55)[/td][td][b][color=lightgreen]67[/color][/b]/1213
+(↑12)[/td][/tr][tr][td]2[/td][td][url=https://myanimelist.net/forum/?topicid=2086373&show=1950#msg69047876][img height=60]https://cdn.myanimelist.net/images/badge/2023_easter_easyhard.png[/img][/url][/td][td][color=bisque]2023[/color][/td][td][i][b]7:31:21[/b][/i]
+(↓9:29:45)[/td][td][b][color=lightgreen]99[/color][/b]/4564
+(↑224)[/td][td][i][b]7:37:19[/b][/i]
+(↓15:08:57)[/td][td][b][color=lightgreen]79[/color][/b]/2536
+(↑52)[/td][/tr][tr][td]1[/td][td][url=https://myanimelist.net/forum/?topicid=2008357&show=3350#msg66246742][img height=60]https://cdn.myanimelist.net/images/badge/2022_easter_all.png[/img][/url][/td][td][color=bisque]2022[/color][/td][td][i][b]17:01:06[/b][/i][/td][td][b][color=lightgreen]323[/color][/b]/2174
+(inaugural)[/td][td][i][b]22:46:16[/b][/i][/td][td][b][color=lightgreen]131[/color][/b]/1037
+(inaugural)[/td][/tr][/table][/center]
