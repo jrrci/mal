@@ -5,21 +5,20 @@
 [img height=500]https://i.imgur.com/9NpuIkt.png[/img]
 
 [b][size=120]Battle Record[/size][/b]
-Wins: [b][size=105][font=Century]10,000[/font][/size][/b]
+Wins: [b][size=105][font=Century]10,045[/font][/size][/b]
 Most Damage Dealt: [b][size=105][font=Century]600[/font][/size][/b]
-Total Points: [b][size=105][font=Century]24,127[/font][/size][/b]
+Total Points: [b][size=105][font=Century]24,233[/font][/size][/b]
 
-[b][size=120]Ranked Battle Seasonal Stats[/size][/b]
+[b][size=130]Ranked Battle Seasonal Stats[/size][/b]
 
 [center][table][tr][th]#[/th][th]Season[/th][th]Highest Tier Accomplished[/th][th]Masterball Rank Date Achieved[/th][th]Final Rank[/th][th]Final Points[/th][th]Peak Rank[/th][th]Peak Points[/th][th]Longest Win Streak[/th][th]Winrate[/th][th]Victories[/th][th]Defeats[/th][th]Ties[/th][th]Total Matches[/th][th]Emblem Received[/th][/tr][tr][td]9[/td][td]B1a[/td][td][color=orchid]Masterball[/color][/td][td]13 Jan 2025 1043H[/td][td][i]Unranked[/i][/td][td][b][color=lightgreen]----[/color][/b][/td][td][/td][td][/td][td]5[/td][td]58.3%[/td][td]35[/td][td]24[/td][td]1[/td][td]60[/td][td][/td][/tr][tr][td]8[/td][td]B1[/td][td][color=orchid]Masterball[/color][/td][td]28 Nov 2025 2302H[/td][td][i]Unranked[/i][/td][td][b][color=lightgreen]945[/color][/b][/td][td][/td][td][/td][td]9[/td][td]52.9%[/td][td]18[/td][td]16[/td][td]0[/td][td]34[/td][td][/td][/tr][tr][td]7[/td][td]A4b[/td][td][color=orchid]Masterball[/color][/td][td]1 Oct 2025 1758H[/td][td][b][color=lightgreen]#217[/color][/b][/td][td][b][color=lightgreen]3551[/color][/b][/td][td]#84[/td][td][/td][td]7[/td][td]56.1%[/td][td]420[/td][td]326[/td][td]3[/td][td]749[/td][td][img height=60]https://i.imgur.com/pQJfPL6.png[/img][/td][/tr][tr][td]6[/td][td]A4a[/td][td][color=orchid]Masterball[/color][/td][td]29 Aug 2025 1728H[/td][td][b][color=lightgreen]#724[/color][/b][/td][td][b][color=lightgreen]3506[/color][/b][/td][td]#491[/td][td][/td][td]8[/td][td]51.7%[/td][td]592[/td][td]546[/td][td]7[/td][td]1145[/td][td][img height=60]https://i.imgur.com/p6D1drm.png[/img][/td][/tr][tr][td]5[/td][td]A4[/td][td][color=orchid]Masterball[/color][/td][td]31 Jul 2025 1953H[/td][td][b][color=lightgreen]#588[/color][/b][/td][td][b][color=lightgreen]3395[/color][/b][/td][td]#89[/td][td]3813[/td][td]8[/td][td]49.4%[/td][td]731[/td][td]736[/td][td]13[/td][td]1480[/td][td][img height=60]https://i.imgur.com/CAvbmcr.png[/img][/td][/tr][tr][td]4[/td][td]A3b[/td][td][color=orchid]Masterball[/color][/td][td]27 Jun 2025 1848H[/td][td][b][color=lightgreen]#843[/color][/b][/td][td][b][color=lightgreen]3624[/color][/b][/td][td]#777[/td][td][/td][td]10[/td][td]47.8%[/td][td]1235[/td][td]1324[/td][td]25[/td][td]2584[/td][td][img height=60]https://i.imgur.com/v9VGMJK.png[/img][/td][/tr][tr][td]3[/td][td]A3a[/td][td][color=orchid]Masterball[/color][/td][td]3 Jun 2025 1455H[/td][td][i]Unranked[/i][/td][td][b][color=lightgreen]1451[/color][/b][/td][td][/td][td][/td][td]4[/td][td]53.2%[/td][td]59[/td][td]52[/td][td]0[/td][td]111[/td][td][img height=60]https://i.imgur.com/7mRy42m.png[/img][/td][/tr][tr][td]2[/td][td]A3[/td][td][color=orchid]Masterball[/color][/td][td]5 May 2025 1533H[/td][td][i]Unranked[/i][/td][td][b][color=lightgreen]1680[/color][/b][/td][td][/td][td][/td][td]3[/td][td]51.8%[/td][td]382[/td][td]347[/td][td]8[/td][td]737[/td][td][img height=60]https://i.imgur.com/fDPfQtF.png[/img][/td][/tr][tr][td]1[/td][td]A2b[/td][td][color=orchid]Masterball[/color][/td][td]4 Apr 2025 0458H[/td][td][b][color=lightgreen]#4878[/color][/b][/td][td][b][color=lightgreen]1754[/color][/b][/td][td]#4494[/td][td][/td][td]5[/td][td]51.8%[/td][td]667[/td][td]608[/td][td]13[/td][td]1288[/td][td][img height=60]https://i.imgur.com/FpqFjaq.png[/img][/td][/tr][/table][/center]
-
 [size=105][b]Total Victories:[/b] 4,139
 [b]Total Defeats:[/b] 3,887
 [b]Total Ties:[/b] 70
 [b]Total Matches:[/b] 8,096
 [b]Lifetime Winrate:[/b] 51.12%[/size]
 
-[color=#808080]Last Edit: 13 Jan 2026 1101H[/color]
+[color=#808080]Last Edit: 13 Jan 2026 1145H[/color]
 
 [spoiler="Milestones"]
 [spoiler="Level Milestones"]
