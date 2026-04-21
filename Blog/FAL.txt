@@ -1,10 +1,12 @@
 [size=120][b]Fantasy Anime League Rankings[/b][/size]
 
-[center][table][tr][th]#[/th][th]Badge[/th][th]Year[/th][th]Season[/th][th]Rank[/th][th]Participants[/th][th]Top %[/th][th]My Team[/th][/tr][tr][td]12[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2025_fal_fall.png[/img][/td][td]2025
-[/td][td][color=orange]Fall[/color][/td][td][b][color=palegreen]---[/color][/b]
-(---)[/td][td]18,537[/td][td]--%[/td][td][img height=60]--[/img][/td][/tr][tr][td]11[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2025_fal_summer.png[/img][/td][td]2025
+[center][table][tr][th]#[/th][th]Badge[/th][th]Year[/th][th]Season[/th][th]Rank[/th][th]Participants[/th][th]Top %[/th][th]My Team[/th][/tr][tr][td]13[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2026_fal_spring.png[/img][/td][td]2026
+[/td][td][color=pink]Spring[/color][/td][td][b][color=palegreen]--[/color][/b]
+(↓-)[/td][td]18,727[/td][td]-%[/td][td][img height=57][/img][/td][/tr][tr][td]12[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2025_fal_fall.png[/img][/td][td]2025
+[/td][td][color=orange]Fall[/color][/td][td][b][color=palegreen]903[/color][/b]
+(↓5)[/td][td]18,537[/td][td]4%[/td][td][img height=57]https://i.imgur.com/fBnfIbt.png[/img][/td][/tr][tr][td]11[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2025_fal_summer.png[/img][/td][td]2025
 [/td][td][color=springgreen]Summer[/color][/td][td][b][color=palegreen]898[/color][/b]
-(↓738)[/td][td]21,292[/td][td]4%[/td][td][img height=60]--[/img][/td][/tr][tr][td]10[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2025_fal_spring.png[/img][/td][td]2025
+(↓738)[/td][td]21,292[/td][td]4%[/td][td][img height=57]https://i.imgur.com/Np9Yubv.png[/img][/td][/tr][tr][td]10[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2025_fal_spring.png[/img][/td][td]2025
 [/td][td][color=pink]Spring[/color][/td][td][b][color=palegreen]160[/color][/b]
 (↑344)[/td][td]23,440[/td][td]0.68%[/td][td][img height=60]https://i.imgur.com/kL7yG7H.png[/img][/td][/tr][tr][td]9[/td][td][img height=60]https://cdn.myanimelist.net/images/badge/2024_fall_fal.png[/img][/td][td]2024
 [/td][td][color=orange]Fall[/color][/td][td][b][color=palegreen]504[/color][/b]
